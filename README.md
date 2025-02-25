@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate on GithHub
 - 📫 How to reach me 1719939641@qq.com
   
-<details>
+<details open>
 <summary>My top languages</summary>
 
 | Rank | Languages |
